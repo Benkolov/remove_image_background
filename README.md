@@ -1,5 +1,7 @@
 # Background Image Removal Tool
 
+![Background Image Removal Tool.png](Background%20Image%20Removal%20Tool.png)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A powerful desktop application for removing backgrounds from images with ease. Built with Python, featuring an intuitive GUI and advanced image processing capabilities.
